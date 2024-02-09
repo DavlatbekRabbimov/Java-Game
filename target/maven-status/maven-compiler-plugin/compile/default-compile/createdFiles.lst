@@ -1,0 +1,8 @@
+org\example\game\Move.class
+org\example\game\Game.class
+org\example\game\GameTable.class
+org\example\Main.class
+org\example\game\Color.class
+org\example\game\KeyGenerator.class
+org\example\game\HmacGenerator.class
+org\example\game\GameRules.class
